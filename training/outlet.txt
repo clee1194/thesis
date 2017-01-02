@@ -1,0 +1,2 @@
+/home/clee/thesis/training/images/outlet_000001.jpg
+/home/clee/thesis/training/images/outlet_000002.jpg
