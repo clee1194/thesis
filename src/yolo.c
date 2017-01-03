@@ -19,10 +19,10 @@ image voc_labels[CLASSNUM];
 void train_yolo(char *cfgfile, char *weightfile)
 {
     /* Change training folders here */
-    char *train_images = "/home/clee/thesis/training/outlet.txt";
+    char *train_images = "/home/christinelee/thesis/training/outlet.txt";
 
     /* Change output weight folders here */
-    char *backup_directory = "/home/clee/thesis/backup/";
+    char *backup_directory = "/home/christinelee/thesis/backup/";
 
     srand(time(0));
     data_seed = time(0);
