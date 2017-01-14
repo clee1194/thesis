@@ -22,7 +22,7 @@ void train_yolo(char *cfgfile, char *weightfile)
     char *train_images = "/home/christinelee/thesis/training/outlet.txt";
 
     /* Change output weight folders here */
-    char *backup_directory = "/home/christinelee/thesis/backup/";
+    char *backup_directory = "/home/christinelee/thesis/backup";
 
     srand(time(0));
     data_seed = time(0);
