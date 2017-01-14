@@ -1,2 +1,7 @@
 outlet_000001
 outlet_000002
+outlet_000003
+outlet_000004
+outlet_000005
+outlet_000006
+outlet_000007

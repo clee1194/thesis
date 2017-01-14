@@ -1,2 +1,7 @@
-/home/christinelee/thesis/training/images/outlet_000001.JPEG
-/home/christinelee/thesis/training/images/outlet_000002.JPEG
+/home/clee/thesis/training/images/outlet_000001.JPEG
+/home/clee/thesis/training/images/outlet_000002.JPEG
+/home/clee/thesis/training/images/outlet_000003.JPEG
+/home/clee/thesis/training/images/outlet_000004.JPEG
+/home/clee/thesis/training/images/outlet_000005.JPEG
+/home/clee/thesis/training/images/outlet_000006.JPEG
+/home/clee/thesis/training/images/outlet_000007.JPEG
