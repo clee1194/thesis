@@ -13,50 +13,50 @@
   <segmented>0</segmented>
   <object>
     <name>outlet</name>
-    <pose>Unspecified</pose>
+    <pose>frontal</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>69</xmin>
-      <ymin>72</ymin>
-      <xmax>144</xmax>
-      <ymax>137</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>outlet</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-      <xmin>255</xmin>
-      <ymin>149</ymin>
-      <xmax>335</xmax>
-      <ymax>213</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>outlet</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-      <xmin>67</xmin>
-      <ymin>159</ymin>
+      <xmin>68</xmin>
+      <ymin>74</ymin>
       <xmax>146</xmax>
-      <ymax>227</ymax>
+      <ymax>138</ymax>
     </bndbox>
   </object>
   <object>
     <name>outlet</name>
-    <pose>Unspecified</pose>
+    <pose>frontal</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>254</xmin>
+      <xmin>257</xmin>
+      <ymin>149</ymin>
+      <xmax>334</xmax>
+      <ymax>215</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>outlet</name>
+    <pose>frontal</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>65</xmin>
+      <ymin>160</ymin>
+      <xmax>143</xmax>
+      <ymax>225</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>outlet</name>
+    <pose>frontal</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>256</xmin>
       <ymin>236</ymin>
-      <xmax>338</xmax>
-      <ymax>303</ymax>
+      <xmax>335</xmax>
+      <ymax>304</ymax>
     </bndbox>
   </object>
 </annotation>
