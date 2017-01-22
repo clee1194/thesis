@@ -10,6 +10,7 @@ OBJDIR=./obj/
 
 CC=gcc
 NVCC=nvcc
+NVCC+= -D_FORCE_INLINES
 OPTS=-Ofast
 LDFLAGS= -lm -pthread -lstdc++ 
 COMMON= 
