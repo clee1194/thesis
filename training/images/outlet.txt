@@ -5,3 +5,11 @@ outlet_000004
 outlet_000005
 outlet_000006
 outlet_000007
+outlet_000008
+outlet_000009
+outlet_000010
+outlet_000011
+outlet_000012
+outlet_000013
+outlet_000014
+outlet_000015
