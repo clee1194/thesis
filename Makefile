@@ -9,7 +9,7 @@ EXEC=darknet
 OBJDIR=./obj/
 
 CC=gcc
-NVCC+= -D_FORCE_INLINES
+NVCC=nvcc
 OPTS=-Ofast
 LDFLAGS= -lm -pthread -lstdc++ 
 COMMON= 
