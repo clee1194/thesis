@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>outlet_000167</filename>
+  <path>/home/christinelee/thesis/training/images/outlet_000167.JPEG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>300</width>
+    <height>250</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>outlet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>123</xmin>
+      <ymin>181</ymin>
+      <xmax>136</xmax>
+      <ymax>196</ymax>
+    </bndbox>
+  </object>
+</annotation>

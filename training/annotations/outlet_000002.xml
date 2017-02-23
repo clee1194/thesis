@@ -1,7 +1,7 @@
 <annotation>
   <folder>images</folder>
   <filename>outlet_000002</filename>
-  <path>/home/clee/thesis/training/images/outlet_000002.JPEG</path>
+  <path>/home/christinelee/thesis/training/images/outlet_000002.JPEG</path>
   <source>
     <database>Unknown</database>
   </source>
@@ -13,50 +13,26 @@
   <segmented>0</segmented>
   <object>
     <name>outlet</name>
-    <pose>frontal</pose>
+    <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>68</xmin>
-      <ymin>74</ymin>
-      <xmax>146</xmax>
-      <ymax>138</ymax>
+      <xmin>269</xmin>
+      <ymin>159</ymin>
+      <xmax>320</xmax>
+      <ymax>212</ymax>
     </bndbox>
   </object>
   <object>
     <name>outlet</name>
-    <pose>frontal</pose>
+    <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>257</xmin>
-      <ymin>149</ymin>
-      <xmax>334</xmax>
-      <ymax>215</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>outlet</name>
-    <pose>frontal</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-      <xmin>65</xmin>
-      <ymin>160</ymin>
-      <xmax>143</xmax>
-      <ymax>225</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>outlet</name>
-    <pose>frontal</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-      <xmin>256</xmin>
-      <ymin>236</ymin>
-      <xmax>335</xmax>
-      <ymax>304</ymax>
+      <xmin>269</xmin>
+      <ymin>244</ymin>
+      <xmax>324</xmax>
+      <ymax>300</ymax>
     </bndbox>
   </object>
 </annotation>

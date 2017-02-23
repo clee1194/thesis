@@ -1,7 +1,7 @@
 <annotation>
   <folder>images</folder>
   <filename>outlet_000005</filename>
-  <path>/home/clee/thesis/training/images/outlet_000005.JPEG</path>
+  <path>/home/christinelee/thesis/training/images/outlet_000005.JPEG</path>
   <source>
     <database>Unknown</database>
   </source>
@@ -13,15 +13,14 @@
   <segmented>0</segmented>
   <object>
     <name>outlet</name>
-    <pose>frontal</pose>
+    <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
-    <occluded>1</occluded>
     <bndbox>
-      <xmin>819</xmin>
-      <ymin>394</ymin>
-      <xmax>917</xmax>
-      <ymax>466</ymax>
+      <xmin>828</xmin>
+      <ymin>393</ymin>
+      <xmax>892</xmax>
+      <ymax>458</ymax>
     </bndbox>
   </object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
   <folder>images</folder>
   <filename>outlet_000013</filename>
-  <path>/home/clee/thesis/training/images/outlet_000013.JPEG</path>
+  <path>/home/christinelee/thesis/training/images/outlet_000013.JPEG</path>
   <source>
     <database>Unknown</database>
   </source>
@@ -17,10 +17,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>286</xmin>
-      <ymin>84</ymin>
+      <xmin>288</xmin>
+      <ymin>85</ymin>
       <xmax>309</xmax>
-      <ymax>106</ymax>
+      <ymax>107</ymax>
     </bndbox>
   </object>
   <object>
@@ -29,10 +29,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>287</xmin>
-      <ymin>114</ymin>
-      <xmax>311</xmax>
-      <ymax>136</ymax>
+      <xmin>288</xmin>
+      <ymin>115</ymin>
+      <xmax>309</xmax>
+      <ymax>134</ymax>
     </bndbox>
   </object>
 </annotation>
