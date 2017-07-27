@@ -23,8 +23,8 @@ def convert(size, box):
     return (x,y,w,h)
 
 def convert_annotation(image_id):
-    in_file = open('/home/clee/thesis/training/annotations/%s.xml'%(image_id))
-    out_file = open('/home/clee/thesis/training/labels/%s.txt'%(image_id), 'w')
+    in_file = open('/home/christinelee/thesis/training/annotations/%s.xml'%(image_id))
+    out_file = open('/home/christinelee/thesis/training/labels/%s.txt'%(image_id), 'w')
     tree=ET.parse(in_file)
     root = tree.getroot()
     size = root.find('size')
@@ -47,10 +47,10 @@ wd = getcwd()
 for image_set in sets:
     #if not os.path.exists('VOCdevkit/VOC%s/labels/'%(year)):
     #    os.makedirs('VOCdevkit/VOC%s/labels/'%(year))
-    image_ids = open('/home/clee/thesis/training/images/%s.txt'%(image_set)).read().strip().split()
+    image_ids = open('/home/christinelee/thesis/training/images/%s.txt'%(image_set)).read().strip().split()
     list_file = open('%s.txt'%(image_set),'w')
     for image_id in image_ids:
-        list_file.write('/home/clee/thesis/training/images/%s.JPEG\n'%(image_id))
+        list_file.write('/home/christinelee/thesis/training/images/%s.JPEG\n'%(image_id))
         convert_annotation(image_id)
     list_file.close()
 
